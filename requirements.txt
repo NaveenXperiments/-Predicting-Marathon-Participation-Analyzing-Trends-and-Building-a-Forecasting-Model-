@@ -1,0 +1,19 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+plotly
+openpyxl
+
+
+git clone https://github.com/yourusername/your-repository-name.git
+cd your-repository-name
+
+python -m venv venv
+.\venv\Scripts\activate
+
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
